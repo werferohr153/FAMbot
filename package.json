@@ -1,0 +1,25 @@
+{
+
+  "name": "FAMbot",
+
+  "description": "hi fellow FAMs",
+
+  "version": "0.0.1",
+
+  "main": "FAMbot.py",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
